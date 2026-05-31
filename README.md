@@ -164,5 +164,3 @@ This is a comprehensive German-language employee churn prediction application (M
 4. Implement user authentication and per-user prediction tracking
 5. Add export functionality for visualizations
 6. Create admin dashboard for model performance monitoring
-
-Application: https://churn-predictor-papazoglouk33.replit.app
